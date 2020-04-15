@@ -1,0 +1,39 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+
+nav {
+  width: 100%;
+  padding: 10px;
+  background-color: #444;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+nav a:visited,
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: hotpink;
+}
+
+.container {
+  padding: 0 25px;
+}
