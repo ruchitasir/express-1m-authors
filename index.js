@@ -1,5 +1,5 @@
-// Required modules
 let express = require('express')
+// Required modules
 let layouts = require('express-ejs-layouts')
 
 // Variables
